@@ -199,21 +199,22 @@ def pipeline_svg(lang):
 
 def logo_svg():
     """A row of symbol tiles over a line: one symbol per second, then a model of the sequence."""
-    W, H = 640, 120
+    W, H = 700, 120
     s = ['<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 %d %d" width="%d" height="%d" font-family="%s">'
          % (W, H, W, H, FONT), '<title>per-person-keystroke-models</title>',
          '<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#4f46e5"/>'
-         '<stop offset="0.55" stop-color="#0d9488"/><stop offset="1" stop-color="#d97706"/></linearGradient></defs>']
+         '<stop offset="0.55" stop-color="#0d9488"/><stop offset="1" stop-color="#d97706"/></linearGradient></defs>',
+         '<rect x="0.5" y="0.5" width="%d" height="%d" rx="18" fill="%s" stroke="%s"/>' % (W - 1, H - 1, CARD, GRID)]
     rng = random.Random(7)
     for i in range(9):
         h = 14 + rng.randint(0, 26)
         s.append('<rect x="%d" y="%d" width="10" height="%d" rx="3" fill="url(#g)" opacity="%.2f"/>'
-                 % (14 + i * 13, 74 - h, h, 0.45 + 0.06 * i))
-    s.append('<path d="M14,92 C40,80 64,100 90,86 C104,79 120,70 134,78" fill="none" stroke="url(#g)" stroke-width="3.5" '
-             'stroke-linecap="round"/>')
-    s.append('<text x="156" y="62" font-size="34" font-weight="800" fill="#4f46e5" letter-spacing="-0.5">per-person</text>')
-    s.append('<text x="342" y="62" font-size="34" font-weight="300" fill="#64748b" letter-spacing="-0.5">keystroke models</text>')
-    s.append('<text x="158" y="90" font-size="14" fill="#64748b">How much does fitting a model to one writer add?</text>')
+                 % (24 + i * 13, 74 - h, h, 0.45 + 0.06 * i))
+    s.append('<path d="M24,92 C50,80 74,100 100,86 C114,79 130,70 144,78" fill="none" stroke="url(#g)" '
+             'stroke-width="3.5" stroke-linecap="round"/>')
+    s.append('<text x="170" y="60" font-size="30" letter-spacing="-0.5"><tspan font-weight="800" fill="#4f46e5">'
+             'per-person</tspan><tspan font-weight="400" fill="#475569"> keystroke models</tspan></text>')
+    s.append('<text x="172" y="90" font-size="14" fill="#64748b">How much does fitting a model to one writer add?</text>')
     s.append("</svg>")
     return "\n".join(s) + "\n"
 
