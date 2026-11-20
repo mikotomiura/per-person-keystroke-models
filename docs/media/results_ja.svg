@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 470" width="960" height="470" font-family="Inter, -apple-system, 'Segoe UI', 'Hiragino Sans', 'Noto Sans JP', 'Yu Gothic', Helvetica, Arial, sans-serif">
+<title>本人のモデルの利得は、強い相手と比べると何が残るか</title>
+<rect x="0.5" y="0.5" width="959" height="469" rx="16" fill="#ffffff" stroke="#e5e7eb"/>
+<text x="42" y="38" font-size="19" font-weight="700" fill="#1f2937">本人のモデルの利得は、強い相手と比べると何が残るか</text>
+<text x="42" y="62" font-size="13" fill="#6b7280">CoAuthor の 15 セッションのパネル（17 人）・書き手の中央値・取り置いた記号 1 つあたりの nats（原稿の図 3）</text>
+<text x="82" y="80" font-size="13" font-weight="600" fill="#1f2937">(a) 本人 − 同じ構造の共通のモデル</text>
+<line x1="82" x2="462" y1="396.0" y2="396.0" stroke="#e5e7eb" />
+<text x="74" y="400.0" font-size="11" fill="#6b7280" text-anchor="end">10<tspan dy='-6' font-size='9'>-4</tspan></text>
+<line x1="82" x2="462" y1="308.6" y2="308.6" stroke="#e5e7eb" />
+<text x="74" y="312.6" font-size="11" fill="#6b7280" text-anchor="end">10<tspan dy='-6' font-size='9'>-3</tspan></text>
+<line x1="82" x2="462" y1="221.1" y2="221.1" stroke="#e5e7eb" />
+<text x="74" y="225.1" font-size="11" fill="#6b7280" text-anchor="end">10<tspan dy='-6' font-size='9'>-2</tspan></text>
+<line x1="82" x2="462" y1="133.7" y2="133.7" stroke="#e5e7eb" />
+<text x="74" y="137.7" font-size="11" fill="#6b7280" text-anchor="end">10<tspan dy='-6' font-size='9'>-1</tspan></text>
+<text x="82.0" y="414" font-size="11" fill="#6b7280" text-anchor="middle">1</text>
+<text x="179.3" y="414" font-size="11" fill="#6b7280" text-anchor="middle">2</text>
+<text x="236.2" y="414" font-size="11" fill="#6b7280" text-anchor="middle">3</text>
+<text x="307.8" y="414" font-size="11" fill="#6b7280" text-anchor="middle">5</text>
+<text x="373.8" y="414" font-size="11" fill="#6b7280" text-anchor="middle">8</text>
+<text x="430.7" y="414" font-size="11" fill="#6b7280" text-anchor="middle">12</text>
+<text x="462.0" y="414" font-size="11" fill="#6b7280" text-anchor="middle">15</text>
+<text x="272" y="434" font-size="12" fill="#6b7280" text-anchor="middle">k（学習の単位の数）</text>
+<polyline points="82.0,214.2 179.3,149.5 236.2,120.9 307.8,109.7 373.8,114.0 430.7,119.9 462.0,114.7" fill="none" stroke="#e11d48" stroke-width="2.5"/>
+<circle cx="82.0" cy="214.2" r="3.6" fill="#e11d48" stroke="#e11d48" stroke-width="1.5"/>
+<circle cx="179.3" cy="149.5" r="3.6" fill="#e11d48" stroke="#e11d48" stroke-width="1.5"/>
+<circle cx="236.2" cy="120.9" r="3.6" fill="#e11d48" stroke="#e11d48" stroke-width="1.5"/>
+<circle cx="307.8" cy="109.7" r="3.6" fill="#e11d48" stroke="#e11d48" stroke-width="1.5"/>
+<circle cx="373.8" cy="114.0" r="3.6" fill="#e11d48" stroke="#e11d48" stroke-width="1.5"/>
+<circle cx="430.7" cy="119.9" r="3.6" fill="#e11d48" stroke="#e11d48" stroke-width="1.5"/>
+<circle cx="462.0" cy="114.7" r="3.6" fill="#e11d48" stroke="#e11d48" stroke-width="1.5"/>
+<polyline points="82.0,369.7 179.3,366.1 236.2,364.4 307.8,354.3 373.8,345.3 430.7,313.4 462.0,282.3" fill="none" stroke="#0d9488" stroke-width="2.5"/>
+<circle cx="82.0" cy="369.7" r="3.6" fill="#0d9488" stroke="#0d9488" stroke-width="1.5"/>
+<circle cx="179.3" cy="366.1" r="3.6" fill="#0d9488" stroke="#0d9488" stroke-width="1.5"/>
+<circle cx="236.2" cy="364.4" r="3.6" fill="#0d9488" stroke="#0d9488" stroke-width="1.5"/>
+<circle cx="307.8" cy="354.3" r="3.6" fill="#0d9488" stroke="#0d9488" stroke-width="1.5"/>
+<circle cx="373.8" cy="345.3" r="3.6" fill="#0d9488" stroke="#0d9488" stroke-width="1.5"/>
+<circle cx="430.7" cy="313.4" r="3.6" fill="#0d9488" stroke="#0d9488" stroke-width="1.5"/>
+<circle cx="462.0" cy="282.3" r="3.6" fill="#0d9488" stroke="#0d9488" stroke-width="1.5"/>
+<polyline points="82.0,336.4 179.3,334.9 236.2,334.9 307.8,331.3 373.8,328.0 430.7,321.0 462.0,319.0" fill="none" stroke="#4f46e5" stroke-width="2.5"/>
+<circle cx="82.0" cy="336.4" r="3.6" fill="#4f46e5" stroke="#4f46e5" stroke-width="1.5"/>
+<circle cx="179.3" cy="334.9" r="3.6" fill="#4f46e5" stroke="#4f46e5" stroke-width="1.5"/>
+<circle cx="236.2" cy="334.9" r="3.6" fill="#4f46e5" stroke="#4f46e5" stroke-width="1.5"/>
+<circle cx="307.8" cy="331.3" r="3.6" fill="#4f46e5" stroke="#4f46e5" stroke-width="1.5"/>
+<circle cx="373.8" cy="328.0" r="3.6" fill="#4f46e5" stroke="#4f46e5" stroke-width="1.5"/>
+<circle cx="430.7" cy="321.0" r="3.6" fill="#4f46e5" stroke="#4f46e5" stroke-width="1.5"/>
+<circle cx="462.0" cy="319.0" r="3.6" fill="#4f46e5" stroke="#4f46e5" stroke-width="1.5"/>
+<polyline points="82.0,336.4 179.3,334.9 236.2,334.9 307.8,331.3 373.8,328.0 430.7,321.0 462.0,342.4" fill="none" stroke="#d97706" stroke-width="2.5" stroke-dasharray="6 4"/>
+<circle cx="82.0" cy="336.4" r="3.6" fill="#ffffff" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="179.3" cy="334.9" r="3.6" fill="#ffffff" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="236.2" cy="334.9" r="3.6" fill="#ffffff" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="307.8" cy="331.3" r="3.6" fill="#ffffff" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="373.8" cy="328.0" r="3.6" fill="#ffffff" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="430.7" cy="321.0" r="3.6" fill="#ffffff" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="462.0" cy="342.4" r="3.6" fill="#ffffff" stroke="#d97706" stroke-width="1.5"/>
+<text x="572" y="80" font-size="13" font-weight="600" fill="#1f2937">(b) 本人 − 書き手自身の連鎖</text>
+<line x1="572" x2="952" y1="396.0" y2="396.0" stroke="#e5e7eb" />
+<text x="564" y="400.0" font-size="11" fill="#6b7280" text-anchor="end">-0.6</text>
+<line x1="572" x2="952" y1="328.4" y2="328.4" stroke="#e5e7eb" />
+<text x="564" y="332.4" font-size="11" fill="#6b7280" text-anchor="end">-0.4</text>
+<line x1="572" x2="952" y1="260.9" y2="260.9" stroke="#e5e7eb" />
+<text x="564" y="264.9" font-size="11" fill="#6b7280" text-anchor="end">-0.2</text>
+<line x1="572" x2="952" y1="193.3" y2="193.3" stroke="#9ca3af" stroke-dasharray="4 3"/>
+<text x="564" y="197.3" font-size="11" fill="#6b7280" text-anchor="end">0</text>
+<line x1="572" x2="952" y1="125.8" y2="125.8" stroke="#e5e7eb" />
+<text x="564" y="129.8" font-size="11" fill="#6b7280" text-anchor="end">+0.2</text>
+<text x="572.0" y="414" font-size="11" fill="#6b7280" text-anchor="middle">1</text>
+<text x="669.3" y="414" font-size="11" fill="#6b7280" text-anchor="middle">2</text>
+<text x="726.2" y="414" font-size="11" fill="#6b7280" text-anchor="middle">3</text>
+<text x="797.8" y="414" font-size="11" fill="#6b7280" text-anchor="middle">5</text>
+<text x="863.8" y="414" font-size="11" fill="#6b7280" text-anchor="middle">8</text>
+<text x="920.7" y="414" font-size="11" fill="#6b7280" text-anchor="middle">12</text>
+<text x="952.0" y="414" font-size="11" fill="#6b7280" text-anchor="middle">15</text>
+<text x="762" y="434" font-size="12" fill="#6b7280" text-anchor="middle">k（学習の単位の数）</text>
+<polyline points="572.0,355.1 669.3,376.4 726.2,365.6 797.8,368.3 863.8,365.3 920.7,369.7 952.0,369.7" fill="none" stroke="#e11d48" stroke-width="2.5"/>
+<circle cx="572.0" cy="355.1" r="3.6" fill="#e11d48" stroke="#e11d48" stroke-width="1.5"/>
+<circle cx="669.3" cy="376.4" r="3.6" fill="#e11d48" stroke="#e11d48" stroke-width="1.5"/>
+<circle cx="726.2" cy="365.6" r="3.6" fill="#e11d48" stroke="#e11d48" stroke-width="1.5"/>
+<circle cx="797.8" cy="368.3" r="3.6" fill="#e11d48" stroke="#e11d48" stroke-width="1.5"/>
+<circle cx="863.8" cy="365.3" r="3.6" fill="#e11d48" stroke="#e11d48" stroke-width="1.5"/>
+<circle cx="920.7" cy="369.7" r="3.6" fill="#e11d48" stroke="#e11d48" stroke-width="1.5"/>
+<circle cx="952.0" cy="369.7" r="3.6" fill="#e11d48" stroke="#e11d48" stroke-width="1.5"/>
+<polyline points="572.0,124.1 669.3,146.0 726.2,165.6 797.8,178.8 863.8,186.9 920.7,189.3 952.0,191.0" fill="none" stroke="#0d9488" stroke-width="2.5"/>
+<circle cx="572.0" cy="124.1" r="3.6" fill="#0d9488" stroke="#0d9488" stroke-width="1.5"/>
+<circle cx="669.3" cy="146.0" r="3.6" fill="#0d9488" stroke="#0d9488" stroke-width="1.5"/>
+<circle cx="726.2" cy="165.6" r="3.6" fill="#0d9488" stroke="#0d9488" stroke-width="1.5"/>
+<circle cx="797.8" cy="178.8" r="3.6" fill="#0d9488" stroke="#0d9488" stroke-width="1.5"/>
+<circle cx="863.8" cy="186.9" r="3.6" fill="#0d9488" stroke="#0d9488" stroke-width="1.5"/>
+<circle cx="920.7" cy="189.3" r="3.6" fill="#0d9488" stroke="#0d9488" stroke-width="1.5"/>
+<circle cx="952.0" cy="191.0" r="3.6" fill="#0d9488" stroke="#0d9488" stroke-width="1.5"/>
+<polyline points="572.0,119.0 669.3,140.3 726.2,162.9 797.8,173.4 863.8,180.5 920.7,184.2 952.0,186.6" fill="none" stroke="#4f46e5" stroke-width="2.5"/>
+<circle cx="572.0" cy="119.0" r="3.6" fill="#4f46e5" stroke="#4f46e5" stroke-width="1.5"/>
+<circle cx="669.3" cy="140.3" r="3.6" fill="#4f46e5" stroke="#4f46e5" stroke-width="1.5"/>
+<circle cx="726.2" cy="162.9" r="3.6" fill="#4f46e5" stroke="#4f46e5" stroke-width="1.5"/>
+<circle cx="797.8" cy="173.4" r="3.6" fill="#4f46e5" stroke="#4f46e5" stroke-width="1.5"/>
+<circle cx="863.8" cy="180.5" r="3.6" fill="#4f46e5" stroke="#4f46e5" stroke-width="1.5"/>
+<circle cx="920.7" cy="184.2" r="3.6" fill="#4f46e5" stroke="#4f46e5" stroke-width="1.5"/>
+<circle cx="952.0" cy="186.6" r="3.6" fill="#4f46e5" stroke="#4f46e5" stroke-width="1.5"/>
+<polyline points="572.0,119.0 669.3,140.3 726.2,162.9 797.8,173.4 863.8,180.5 920.7,184.2 952.0,186.6" fill="none" stroke="#d97706" stroke-width="2.5" stroke-dasharray="6 4"/>
+<circle cx="572.0" cy="119.0" r="3.6" fill="#ffffff" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="669.3" cy="140.3" r="3.6" fill="#ffffff" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="726.2" cy="162.9" r="3.6" fill="#ffffff" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="797.8" cy="173.4" r="3.6" fill="#ffffff" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="863.8" cy="180.5" r="3.6" fill="#ffffff" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="920.7" cy="184.2" r="3.6" fill="#ffffff" stroke="#d97706" stroke-width="1.5"/>
+<circle cx="952.0" cy="186.6" r="3.6" fill="#ffffff" stroke="#d97706" stroke-width="1.5"/>
+<rect x="42" y="448" width="14" height="4" rx="2" fill="#e11d48"/>
+<text x="62" y="454" font-size="11.5" fill="#1f2937">3 状態 HMM（τ を選ぶ）</text>
+<rect x="244" y="448" width="14" height="4" rx="2" fill="#0d9488"/>
+<text x="264" y="454" font-size="11.5" fill="#1f2937">1 状態 AR-HMM（τ を選ぶ）</text>
+<rect x="481" y="448" width="14" height="4" rx="2" fill="#4f46e5"/>
+<text x="501" y="454" font-size="11.5" fill="#1f2937">3 状態 AR-HMM（τ を選ぶ）</text>
+<rect x="718" y="448" width="14" height="4" rx="2" fill="#d97706"/>
+<text x="738" y="454" font-size="11.5" fill="#1f2937">構造と τ を同時に選ぶ</text>
+</svg>

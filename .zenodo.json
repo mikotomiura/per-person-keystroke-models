@@ -1,0 +1,31 @@
+{
+  "upload_type": "software",
+  "title": "Code, conditions and aggregate results of 'Per-person sequence models of keystroke behaviour: what remains of the gain against stronger comparisons'",
+  "version": "1.0.0",
+  "publication_date": "2026-11-20",
+  "creators": [
+    {
+      "name": "Miura, Mikoto",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0000-4196-0508"
+    }
+  ],
+  "description": "<p>Per-person sequence models of keystroke behaviour compared, on each writer's later sessions, with a shared model of the same structure and with the writer's own first-order Markov chain, on public co-writing (CoAuthor) and programming (CS1) keystroke data coded per second over overlapping 30-second windows.</p><p>The archive holds the symbolization kit with per-record SHA-256 hashes of the symbols, the fitting and evaluation code of four analyses and twelve later checks, the conditions committed before each computation (in Japanese, with an English summary), the aggregate and synthetic results, checks that the SHA-256 records of the experiments close inside the archive, and the manuscript sources. The data and per-writer values of real writers are not included.</p>",
+  "license": "MIT",
+  "notes": "Code (tools/, the Python files under kit/symbols/, and the scripts under experiments/) is licensed under MIT or Apache-2.0 at your option; the records, results, figures, READMEs and manuscript sources are licensed under CC BY 4.0 (see LICENSE-docs).",
+  "keywords": [
+    "personalization",
+    "user modelling",
+    "keystroke logs",
+    "hidden Markov models",
+    "evaluation protocol",
+    "baselines"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.24026278",
+      "relation": "references",
+      "scheme": "doi"
+    }
+  ]
+}

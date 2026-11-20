@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 330" width="960" height="330" font-family="Inter, -apple-system, 'Segoe UI', 'Hiragino Sans', 'Noto Sans JP', 'Yu Gothic', Helvetica, Arial, sans-serif">
+<title>From key presses to the comparison of three models</title>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#9ca3af"/></marker></defs>
+<rect x="0.5" y="0.5" width="959" height="329" rx="16" fill="#ffffff" stroke="#e5e7eb"/>
+<rect x="24" y="40" width="170" height="104" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.5"/>
+<text x="109" y="66" font-size="14" font-weight="700" fill="#1f2937" text-anchor="middle">Public keystrokes</text>
+<text x="109" y="86" font-size="11.5" fill="#6b7280" text-anchor="middle">CoAuthor (co-writing)</text>
+<text x="109" y="102" font-size="11.5" fill="#6b7280" text-anchor="middle">CS1 2021 (programming)</text>
+<text x="109" y="118" font-size="11.5" fill="#6b7280" text-anchor="middle">time and key category</text>
+<rect x="236" y="40" width="190" height="104" rx="12" fill="#eef2ff" stroke="#a5b4fc" stroke-width="1.5"/>
+<text x="331" y="66" font-size="14" font-weight="700" fill="#1f2937" text-anchor="middle">kit/symbols</text>
+<text x="331" y="86" font-size="11.5" fill="#6b7280" text-anchor="middle">one symbol per second</text>
+<text x="331" y="102" font-size="11.5" fill="#6b7280" text-anchor="middle">from the last 30 s</text>
+<text x="331" y="118" font-size="11.5" fill="#6b7280" text-anchor="middle">26 symbols</text>
+<rect x="468" y="40" width="190" height="104" rx="12" fill="#f0fdfa" stroke="#5eead4" stroke-width="1.5"/>
+<text x="563" y="66" font-size="14" font-weight="700" fill="#1f2937" text-anchor="middle">Earlier sessions</text>
+<text x="563" y="86" font-size="11.5" fill="#6b7280" text-anchor="middle">fit three models</text>
+<text x="563" y="102" font-size="11.5" fill="#6b7280" text-anchor="middle">for each writer</text>
+<text x="563" y="118" font-size="11.5" fill="#6b7280" text-anchor="middle">(k = 1 to 30)</text>
+<rect x="700" y="40" width="236" height="104" rx="12" fill="#fff7ed" stroke="#fdba74" stroke-width="1.5"/>
+<text x="818" y="66" font-size="14" font-weight="700" fill="#1f2937" text-anchor="middle">Later sessions</text>
+<text x="818" y="86" font-size="11.5" fill="#6b7280" text-anchor="middle">score each model by the</text>
+<text x="818" y="102" font-size="11.5" fill="#6b7280" text-anchor="middle">log-probability of the next</text>
+<text x="818" y="118" font-size="11.5" fill="#6b7280" text-anchor="middle">symbol (nats per symbol)</text>
+<line x1="196" y1="92" x2="232" y2="92" stroke="#9ca3af" stroke-width="2" marker-end="url(#a)"/>
+<line x1="428" y1="92" x2="464" y2="92" stroke="#9ca3af" stroke-width="2" marker-end="url(#a)"/>
+<line x1="660" y1="92" x2="696" y2="92" stroke="#9ca3af" stroke-width="2" marker-end="url(#a)"/>
+<rect x="24" y="182" width="292" height="58" rx="12" fill="#4f46e5" fill-opacity="0.08" stroke="#4f46e5"/>
+<circle cx="46" cy="211" r="7" fill="#4f46e5"/>
+<text x="64" y="206" font-size="13.5" font-weight="700" fill="#1f2937">Per-person model</text>
+<text x="64" y="225" font-size="11.5" fill="#6b7280">pulled toward the shared one</text>
+<rect x="332" y="182" width="292" height="58" rx="12" fill="#0d9488" fill-opacity="0.08" stroke="#0d9488"/>
+<circle cx="354" cy="211" r="7" fill="#0d9488"/>
+<text x="372" y="206" font-size="13.5" font-weight="700" fill="#1f2937">Shared model</text>
+<text x="372" y="225" font-size="11.5" fill="#6b7280">same structure, other writers</text>
+<rect x="640" y="182" width="292" height="58" rx="12" fill="#e11d48" fill-opacity="0.08" stroke="#e11d48"/>
+<circle cx="662" cy="211" r="7" fill="#e11d48"/>
+<text x="680" y="206" font-size="13.5" font-weight="700" fill="#1f2937">Writer's own Markov chain</text>
+<text x="680" y="225" font-size="11.5" fill="#6b7280">next symbol from the current one</text>
+<text x="24" y="276" font-size="12.5" fill="#1f2937"><tspan font-weight="700">Chosen on other writers:</tspan> the structure (HMMs with 3 or 10 states, AR-HMMs with 1 to 3 states) and the shrinkage τ, never on the held-out units</text>
+<text x="24" y="300" font-size="12.5" fill="#1f2937"><tspan font-weight="700">Checked afterwards:</tspan> synthetic writers with planted differences, two nulls, other symbolizations, smoothing of both models</text>
+</svg>

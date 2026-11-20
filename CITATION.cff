@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite it and the manuscript it accompanies."
+type: software
+title: "Code, conditions and aggregate results of 'Per-person sequence models of keystroke behaviour: what remains of the gain against stronger comparisons'"
+abstract: >-
+  Per-person sequence models of keystroke behaviour compared, on each writer's later sessions, with a shared model of
+  the same structure and with the writer's own first-order Markov chain, on public co-writing (CoAuthor) and
+  programming (CS1) keystroke data coded per second over overlapping 30-second windows.
+  The archive holds the symbolization kit with per-record hashes of the symbols, the fitting and evaluation code of
+  four analyses and twelve later checks, the conditions committed before each computation (in Japanese, with an
+  English summary), the aggregate and synthetic results, checks of the SHA-256 records, and the manuscript sources.
+  The data and per-writer values of real writers are not included.
+authors:
+  - family-names: Miura
+    given-names: Mikoto
+    affiliation: Independent Researcher
+    orcid: "https://orcid.org/0009-0000-4196-0508"
+license:
+  - MIT
+  - Apache-2.0
+  - CC-BY-4.0
+doi: 10.5281/zenodo.24395569
+repository-code: "https://github.com/mikotomiura/per-person-keystroke-models"
+version: 1.0.0
+date-released: 2026-11-20
+keywords:
+  - personalization
+  - user modelling
+  - keystroke logs
+  - hidden Markov models
+  - evaluation protocol
+  - baselines
